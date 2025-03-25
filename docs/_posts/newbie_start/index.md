@@ -15,7 +15,7 @@ date: 2024-06-05
 
 У меня не получилось установить новую версию через **[buddy](https://buddy.edgetx.org)** из под линукса, поэтому я это сделал через виндовс 11, вся сложность была в установке драйверов, с этим помогла программа **[Zadig](http://zadig.akeo.ie/)**
 
-### Обновление ExpressERLS
+### Обновление ExpressRLS
 
 **[Скачиваем](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/)** последнюю версию ERLS Configurator, для пользователей мак и линукс есть заметки для установки
 
