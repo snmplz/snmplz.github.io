@@ -9,6 +9,7 @@ date: 2025-03-25
 Достались мне бушные мотры flywoo robo 1002 с уставшими подшибниками(люфт, хруст) и было принято решение их восстановить.
 
 Для процесса понадобится:
+
 - Съемник шестеренок с валов двигателей
 - Вал 1.5мм
 - Новые подшипики (2шт на мотор)
@@ -18,3 +19,12 @@ date: 2025-03-25
 
 
 ![image](image.jpg)
+
+При выборе съемника стоит предпочесть модели без резьбы на экстракторах(как на фото выше) в этом случае удастся жестко зафиксировать вал 1.5мм.
+Ссылки:
+
+- [Спецификация подшипника на сайте NSK](https://www.oss.nsk.com/products/bearings/ball-bearings/deep-groove-ball-bearings/extra-small-ball-bearings-and-miniature-ball-bearings-metric-series/681xzz-esm-md.html)
+- [подшипник на таобао](https://e.tb.cn/h.TGwsV6Vjw7NvYOh?tk=Upq2e9oZBDc)
+- [подшипник на али1](https://sl.aliexpress.ru/p?key=otNfGvC)
+- [подшипник на али2](https://sl.aliexpress.ru/p?key=1UNfGwl)
+- [подшипник на али3](https://sl.aliexpress.ru/p?key=OsNfGXP)
